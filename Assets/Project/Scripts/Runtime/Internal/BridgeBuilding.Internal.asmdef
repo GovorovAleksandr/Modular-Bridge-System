@@ -1,0 +1,14 @@
+{
+    "name": "BridgeBuilding.Internal",
+    "rootNamespace": "GovorovAleksandr.BridgeBuilding.Internal",
+    "references": ["GUID:01b7dfe7ebbec41ae8069460fba7b611"],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

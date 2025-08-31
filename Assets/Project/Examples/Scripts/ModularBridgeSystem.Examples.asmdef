@@ -1,0 +1,20 @@
+{
+    "name": "ModularBridgeSyste",
+    "rootNamespace": "GovorovAleksandr.ModularBridgeSystem.Examples",
+    "references": [
+        "GUID:7f8a166e0a1df4f3299ca4386b969790",
+        "GUID:01b7dfe7ebbec41ae8069460fba7b611",
+        "GUID:eb5aa6d4b68cd4a488cd2083b523bd23",
+        "GUID:4307f53044263cf4b835bd812fc161a4",
+        "GUID:75469ad4d38634e559750d17036d5f7c"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

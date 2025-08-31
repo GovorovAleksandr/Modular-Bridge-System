@@ -1,0 +1,67 @@
+{
+    "version": 1,
+    "name": "BridgeBuildingControls",
+    "maps": [
+        {
+            "name": "BridgeBuilding",
+            "id": "ce2ce583-3529-4023-a811-3451cb10da59",
+            "actions": [
+                {
+                    "name": "Build",
+                    "type": "Button",
+                    "id": "34f293a3-1ad9-4f4d-9657-ed3d360d3c84",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "Cancel",
+                    "type": "Button",
+                    "id": "f03bcfff-54d9-48c8-ae39-3b32fd83dcdd",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "0c3f5750-d4c0-4c6c-bcff-853f3c7d930e",
+                    "path": "<Keyboard>/e",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": ";Keyboard",
+                    "action": "Build",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "578f56f3-65c5-40f2-acd6-9e649939663b",
+                    "path": "<Keyboard>/q",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": ";Keyboard",
+                    "action": "Cancel",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": [
+        {
+            "name": "Keyboard",
+            "bindingGroup": "Keyboard",
+            "devices": [
+                {
+                    "devicePath": "<Keyboard>",
+                    "isOptional": false,
+                    "isOR": false
+                }
+            ]
+        }
+    ]
+}

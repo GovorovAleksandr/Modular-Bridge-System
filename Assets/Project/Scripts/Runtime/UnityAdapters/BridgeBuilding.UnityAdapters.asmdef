@@ -1,0 +1,17 @@
+{
+    "name": "BridgeBuilding.UnityAdapters",
+    "rootNamespace": "GovorovAleksandr.BridgeBuilding.UnityAdapters",
+    "references": [
+        "GUID:01b7dfe7ebbec41ae8069460fba7b611",
+        "GUID:75469ad4d38634e559750d17036d5f7c"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

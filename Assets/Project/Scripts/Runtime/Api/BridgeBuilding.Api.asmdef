@@ -1,0 +1,18 @@
+{
+    "name": "BridgeBuilding.Api",
+  
+    "rootNamespace": "GovorovAleksandr.BridgeBuilding.Api",
+    "references": [
+        "GUID:37d24acfd121b48209c7eefa295fd3f8",
+        "GUID:01b7dfe7ebbec41ae8069460fba7b611"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

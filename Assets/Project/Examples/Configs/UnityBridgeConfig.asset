@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 99ffe72eaa4348c983f48dba18d5c62b, type: 3}
+  m_Name: UnityBridgeConfig
+  m_EditorClassIdentifier: BridgeBuilding.UnityAdapters::GovorovAleksandr.BridgeBuilding.UnityAdapters.BridgeConfigSO
+  _maxSlopeAngle: 5.625
+  _sectionsBeforeMiddle: 0300000003000000
+  _sectionsAfterMiddle: 0300000003000000
+  _maxBuildingDistance: 250
+  _minPoolObjectsCount: 5000
+  _maxInstantiatePerFrame: 1
+  _groundLayerMask:
+    serializedVersion: 2
+    m_Bits: 64
+  _obstacleIgnoreLayerMask:
+    serializedVersion: 2
+    m_Bits: 128
+  _groundSearchStartHeight: 100
+  _maxObstacleHeight: 2
+  _bridgeSectionYRotationOffset: 90
+  _sectionValidMaterial: {fileID: 2100000, guid: 05f89bdee577144b68ad4b14c0ce0c5a, type: 2}
+  _sectionInvalidMaterial: {fileID: 2100000, guid: ac3f0082ec3884da68529c0d366a3c9b, type: 2}
+  _defaultInvalidMaterial: {fileID: 2100000, guid: 1366d3e263dbc403c9eb3fe09b43437e, type: 2}
+  _spawnAnimationDuration: 0.5
+  _spawnAnimationCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 7.657227
+      outSlope: 7.657227
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0.048041534
+    - serializedVersion: 3
+      time: 1.001648
+      value: 1
+      inSlope: 2.3375595
+      outSlope: 2.3375595
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.043113768
+      outWeight: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  _prefabs:
+  - {fileID: 207662257455508044, guid: 3412971a45b14433daa5eeb8ca8b132c, type: 3}
+  - {fileID: 2556857321200724932, guid: 630d1257fdc3c4ed88b16c4e662e1a19, type: 3}
+  - {fileID: 4463676322420127747, guid: 252324ef9cb5c47cdb7a914c8b36cd2a, type: 3}
+  - {fileID: 6421982676274939896, guid: 9e9ef112153d34eef81aa89f2f9d324a, type: 3}
